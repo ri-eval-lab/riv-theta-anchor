@@ -53,7 +53,7 @@
 - Source public record (initial): 2026-03-21 / Rev.0
 - Source public record (revision): 2026-03-22 / Rev.1
 - Repository anchor publication: 2026-03-22
-- Current repository anchor revision (anchor): Rev.1
+- Current repository anchor revision (anchor): Rev.2
 
 ※ Source public record は元となる公開物における公開・改訂時点、Repository anchor publication は本リポジトリ上での公開時点を示します。
 
