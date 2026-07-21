@@ -25,6 +25,15 @@
 
 ## Repository anchor publication
 
+### 2026-07-21 / Rev.3
+
+- カタカナ表記（読み）を「リヴシータ」から「リブシータ」へ統一。
+- `README.md` および `docs/riv-theta-evidence.md` の読み表記を更新。
+- `README.md` の `Current repository anchor revision (anchor)` を `Rev.3` に更新。
+- `docs/riv-theta-evidence.md` の Repository anchor publication を、現行の版履歴と整合する形に更新。
+- 名称『ＲＩＶ－ＴＨＥＴＡ』、代表式 `E = R + I + V(θ)`、要素の最小定義、位置付けおよび利用条件に変更なし。
+- 旧表記を含む過去のコミットおよび既存リリースは、当時の公開記録として維持。
+
 ### 2026-04-25 / Rev.2
 
 - 名称・代表式・出所表示に関する注記を更新。
