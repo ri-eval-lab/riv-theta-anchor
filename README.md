@@ -9,7 +9,7 @@
 ## 記録対象
 
 - 名称：表現整理フレーム『ＲＩＶ－ＴＨＥＴＡ』
-- 読み：リヴシータ
+- 読み：リブシータ
 - 出所表示：RI Eval Lab
 - 最小式：`E = R + I + V(θ)`
 
@@ -53,7 +53,7 @@
 - Source public record (initial): 2026-03-21 / Rev.0
 - Source public record (revision): 2026-03-22 / Rev.1
 - Repository anchor publication: 2026-03-22
-- Current repository anchor revision (anchor): Rev.2
+- Current repository anchor revision (anchor): Rev.3
 
 ※ Source public record は元となる公開物における公開・改訂時点、Repository anchor publication は本リポジトリ上での公開時点を示します。
 
